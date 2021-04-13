@@ -1,0 +1,36 @@
+body {
+    background-image: url(../images/bk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header h1 {
+    background-color: #00000087;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    font-size: 30px;
+    font-family: "Indie Flower" , sans-serif;
+}
+
+nav#form {
+   background-color: #00000087;
+    margin-top: 70px;
+    margin-left: 230px;
+    padding: 39px;
+    width: fit-content;
+    color: white;
+}
+input[type="submit"] {
+    width: -webkit-fill-available;
+}
+
+h2 {
+    text-align: center;
+    font-size:x-large;
+}
+
+
+
+
